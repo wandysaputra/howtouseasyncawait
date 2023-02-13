@@ -1,0 +1,15 @@
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\bin\Debug\net7.0\WhereDoesItStart.exe
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\bin\Debug\net7.0\WhereDoesItStart.deps.json
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\bin\Debug\net7.0\WhereDoesItStart.runtimeconfig.json
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\bin\Debug\net7.0\WhereDoesItStart.dll
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\bin\Debug\net7.0\WhereDoesItStart.pdb
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.csproj.AssemblyReference.cache
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.AssemblyInfoInputs.cache
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.AssemblyInfo.cs
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.csproj.CoreCompileInputs.cache
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.dll
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\refint\WhereDoesItStart.dll
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.pdb
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\WhereDoesItStart.genruntimeconfig.cache
+C:\Users\wandy\RiderProjects\WebApplAsyncAwait\WhereDoesItStart\obj\Debug\net7.0\ref\WhereDoesItStart.dll
